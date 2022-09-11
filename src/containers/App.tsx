@@ -1,4 +1,4 @@
-import MainText from "./MainText";
+import MainText from "../components/MainText";
 import ProjectList from "./ProjectList";
 
 const App = () => {
