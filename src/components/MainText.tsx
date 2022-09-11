@@ -5,7 +5,7 @@ interface MainTextProps {
 
 const MainText: React.FC<MainTextProps> = ({ header, text }) => {
   return (
-    <div>
+    <div id="main-text">
       <h1>{header}</h1>
       <p>{text}</p>
     </div>

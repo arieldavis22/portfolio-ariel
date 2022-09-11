@@ -1,7 +1,11 @@
 {
     "projects": [
         {
-            "name": "Project Name",
+            "name": "Project Test Name",
+            "description": "Project description"
+        },
+        {
+            "name": "Project Test Name 2",
             "description": "Project description"
         }
     ]
